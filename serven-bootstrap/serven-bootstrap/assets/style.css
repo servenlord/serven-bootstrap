@@ -1,0 +1,9 @@
+.modal-body img {
+    max-width: 100%;
+    max-height: 80vh;
+    /* Contoh: membatasi tinggi gambar menjadi 80% dari tinggi viewport */
+    margin: auto;
+    /* Untuk membuat gambar tetap di tengah */
+    display: block;
+    /* Untuk mengatur posisi gambar */
+}
